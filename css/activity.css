@@ -1,0 +1,6 @@
+#main-toolbar #activity-button {
+  background-image: url(../activity/activity-icon.svg);
+}
+#main-toolbar #gravatar-button {
+  background-image: url(../icons/gravatar.svg);
+}

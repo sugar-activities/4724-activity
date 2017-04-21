@@ -1,0 +1,6 @@
+[Activity]
+name = Gravatar
+activity_version = 4
+bundle_id = org.sugarlabs.Gravatar
+exec = sugar-activity-web
+icon = activity-icon
